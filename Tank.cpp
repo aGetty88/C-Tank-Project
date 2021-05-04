@@ -1,6 +1,5 @@
 /*
     Tank.cpp
-    Alan Getty
     CIS 150
     2019-12-07
     
